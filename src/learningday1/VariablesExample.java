@@ -8,7 +8,7 @@ public class VariablesExample {
     final float CGPA = 75.5f; //By using final keyword, the value of this variable cannot be changed
     System.out.println("Hello " + name + " " + initial);
     System.out.println("I am "+ age +" years old.");
-    System.out.println("My CGPA is "+cgpa);
+    System.out.println("My CGPA is "+CGPA);
     
 	}
 }
