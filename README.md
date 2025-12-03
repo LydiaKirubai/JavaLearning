@@ -1,4 +1,5 @@
 **JavaLearning**
+
 This repository contains basic Java programs and exercises created for self-learning. The goal is to practice Java syntax, core concepts, and simple problem-solving through small examples.
 
 **What’s included**
