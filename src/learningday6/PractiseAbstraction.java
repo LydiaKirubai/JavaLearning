@@ -1,3 +1,5 @@
+//Abstraction in Java focuses on hiding the implementation details of a system or object 
+//and only showing the essential functionalities to the user.
 
 abstract class Animal{
 	abstract void sound();

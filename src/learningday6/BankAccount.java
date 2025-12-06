@@ -1,5 +1,10 @@
 package learningday6;
 
+//Encapsulation involves bundling data (variables) and methods (functions) 
+//that operate on that data into a single unit, known as a class. 
+//It is often described as "data hiding" because it restricts direct access
+//to the internal state of an object from outside the class. 
+
 public class BankAccount {
 	
 	String name;

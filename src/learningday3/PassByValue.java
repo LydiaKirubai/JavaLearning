@@ -1,4 +1,6 @@
 package learningday3;
+// Pass-by-value in Java is a mechanism where a copy of the actual argument’s value 
+// is passed to the method, so changes made inside the method do not affect the original variable.
 
 public class PassByValue {
 	

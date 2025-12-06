@@ -1,4 +1,6 @@
 package learningday5;
+// A constructor is a special type of method used to initialize objects of a class. 
+// It is invoked automatically when an object is created using the new keyword. 
 
 public class PractiseConstructor {
 	
